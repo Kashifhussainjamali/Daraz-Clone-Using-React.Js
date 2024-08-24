@@ -1,0 +1,11 @@
+.adds-main-div{
+    display: flex;
+    margin-top: 75px;
+}
+.img1{
+    height: 360px;
+    margin-left: 60px;
+}
+.img2{
+    margin-left: 5px;
+}

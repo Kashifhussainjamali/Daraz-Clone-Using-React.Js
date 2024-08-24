@@ -1,0 +1,49 @@
+.product-main{
+    background-color: white;
+    width: 200px;
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+.product-main:hover{
+    box-shadow: 0 4px 8px rgba(1, 1, 1, 1);
+}
+.text-div{
+    width: 190px;
+    margin-left: 10px;
+    background-color: white;
+}
+.price{
+    color: rgba(248,86,6,255) ;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+.discount-price{
+    font-size: 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+
+}
+s{
+
+    color: rgb(100, 100, 100);
+    background-color: white;
+}
+.buy-button{
+    margin-left: 100px;
+    color: rgba(248,86,6,255) ;
+    border: 2px solid rgba(248,86,6,255) ;
+    height: 30px;
+    width: 60px;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+}
+.buy-button:active{
+    color:  rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+}
